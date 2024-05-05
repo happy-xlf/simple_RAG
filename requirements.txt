@@ -1,0 +1,7 @@
+faiss-gpu==1.7.2
+argparse==1.1
+transformers==4.37.2
+torch
+tqdm==4.66.2
+accelerate
+sentencepiece
